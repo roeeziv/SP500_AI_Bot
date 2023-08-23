@@ -1,4 +1,4 @@
-# SP500_AI_Bot
+# SP500_ML
 This project was made by me following an online Machine Learning course.
 It's ment to demonstrate my knowledge in Python Machine Learning coding using sklearn library:
 - creating a basic model
