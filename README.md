@@ -40,4 +40,8 @@ To visualize model evaluation metrics, we utilize Seaborn to create bar plots il
 We explore the correlation between the S&P 500 index and the top four technology stocks. Additionally, we visualize the rate of return for these stocks over the past five years, providing insights into their performance and correlation with the S&P 500 index.
 
 This project serves as a comprehensive demonstration of machine learning techniques applied to financial data, showcasing data preprocessing, feature engineering, model selection, evaluation, and visualization.
- 
+
+ ![alt text](https://github.com/roeeziv/SP500_Machine_Learning_Project/blob/1b206c46e0c8a4cbb9d99f2ba0a0c0a34d2052ae/Readme%20Images/Screenshot%202023-08-23%20215040.png)
+ ![alt text](https://github.com/roeeziv/SP500_Machine_Learning_Project/blob/1b206c46e0c8a4cbb9d99f2ba0a0c0a34d2052ae/Readme%20Images/Screenshot%202023-08-23%20215054.png)
+
+
