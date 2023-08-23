@@ -17,7 +17,7 @@ In this project, we utilize historical stock price data for the S&P 500 index an
 ## Data Collection
 We use the `yfinance` library to collect historical stock price data for the S&P 500 index. If the data is not locally available, it is fetched from the web and stored as a CSV file for future use.
 
-![S&P500 data pattern visualization]("https://github.com/roeeziv/SP500_Machine_Learning_Project/blob/main/Readme%20Images/Screenshot%202023-08-23%20215019.png")
+![S&P500 data pattern visualization]("Readme Images/Screenshot 2023-08-23 215019.png")
 
 ## Data Preprocessing
 The collected data is cleaned and preprocessed. Unnecessary columns such as dividends and stock splits are removed. The data is then divided into training and test sets.
